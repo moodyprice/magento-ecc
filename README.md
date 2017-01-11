@@ -1,5 +1,5 @@
 # magento-ecc
-A development environment for www.moodyprice.com built on Magento 1.9.x, integrated with Epicor Prophet 21 ERP via ECC API.
+A development environment for www.moodyprice.com built on Magento 1.9.3.1, integrated with Epicor Prophet 21 ERP via ECC API.
 
 ## Resource Dependencies
 + Epicor Prophet 21 version XX.xx
@@ -8,7 +8,7 @@ A development environment for www.moodyprice.com built on Magento 1.9.x, integra
 + Apache Web Server version XX.xx
 + MySQL Database version XX.xx
 + PHP version XX.xx
-+ Magento version 1.9.x
++ Magento version 1.9.3.1
 + Fastest - Fashion Theme version 1.3.5
 
 ## Local Environment
