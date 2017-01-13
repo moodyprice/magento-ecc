@@ -8,7 +8,7 @@ A development environment for www.moodyprice.com built on Magento 1.9.3.1, integ
 + Apache Web Server version 2.4
 + MySQL Database version 5.6
 + PHP version 5.6
-+ Magento version 1.9.3.1
++ Magento version 1.9.2.4 (Updated by @epicor-gabriel 1/12/17)
 + Fastest - Fashion Theme version 1.3.5
 
 ## Local Environment
